@@ -1,0 +1,3090 @@
+[
+  {
+    "question": "졸업하려면 총 몇 학점을 채워야 하나요?",
+    "label": 0
+  },
+  {
+    "question": "충남대 졸업학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "전공필수 과목을 안 들으면 졸업이 안 되나요?",
+    "label": 0
+  },
+  {
+    "question": "교양 필수 학점은 어디서 확인해?",
+    "label": 0
+  },
+  {
+    "question": "복수전공을 하면 졸업 요건이 어떻게 달라져?",
+    "label": 0
+  },
+  {
+    "question": "복전 중인데 몇 학점 들어야 졸업할 수 있어?",
+    "label": 0
+  },
+  {
+    "question": "복수전공자는 주전공이랑 복수전공 각각 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "복수전공 졸업하려면 총 몇 학점 필요해?",
+    "label": 0
+  },
+  {
+    "question": "복전하면 주전공 39학점만 들으면 돼?",
+    "label": 0
+  },
+  {
+    "question": "2014학번 이전 복수전공은 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "부전공 이수학점 기준이 궁금해",
+    "label": 0
+  },
+  {
+    "question": "부전공은 몇 학점 들어야 졸업 가능해?",
+    "label": 0
+  },
+  {
+    "question": "졸업논문 제출도 졸업요건에 포함돼?",
+    "label": 0
+  },
+  {
+    "question": "2025 입학자 졸업이수학점표 어디 있어?",
+    "label": 0
+  },
+  {
+    "question": "전공 선택 학점을 얼마나 들어야 졸업 가능해?",
+    "label": 0
+  },
+  {
+    "question": "수의예과 수료 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "이수구분 정정 안 하면 졸업에 문제가 있나요?",
+    "label": 0
+  },
+  {
+    "question": "교육과정 적용연도에 따른 졸업요건을 알고 싶어",
+    "label": 0
+  },
+  {
+    "question": "마이크로디그리도 졸업학점에 들어가?",
+    "label": 0
+  },
+  {
+    "question": "졸업사정은 어디서 확인하면 돼?",
+    "label": 0
+  },
+  {
+    "question": "교양과 전공 졸업 기준을 비교해줘",
+    "label": 0
+  },
+  {
+    "question": "최근 학교 공지사항 보여줘",
+    "label": 1
+  },
+  {
+    "question": "충남대 새소식 게시판에 뭐 올라왔어?",
+    "label": 1
+  },
+  {
+    "question": "장학게시판 공지 확인하고 싶어",
+    "label": 1
+  },
+  {
+    "question": "학사정보 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "오늘 올라온 교내 공고 알려줘",
+    "label": 1
+  },
+  {
+    "question": "특강 모집 공지가 있는지 찾아줘",
+    "label": 1
+  },
+  {
+    "question": "세미나 및 행사 안내를 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "프로그램 신청 안내가 올라왔는지 궁금해",
+    "label": 1
+  },
+  {
+    "question": "학교 홈페이지 공지 게시판 링크 알려줘",
+    "label": 1
+  },
+  {
+    "question": "CNU뉴스 최신 글 요약해줘",
+    "label": 1
+  },
+  {
+    "question": "채용 초빙 공고는 어디에 있어?",
+    "label": 1
+  },
+  {
+    "question": "교육정보 게시판 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "장학생 선발 공지가 나왔는지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "교내 행사 신청 공지 찾아줘",
+    "label": 1
+  },
+  {
+    "question": "백마광장 게시판에서 안내사항 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "1학기 개강일이 언제야?",
+    "label": 2
+  },
+  {
+    "question": "2026년 1학기 수강신청 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "수강신청 확인 및 변경은 언제까지야?",
+    "label": 2
+  },
+  {
+    "question": "수강정정 기간이 궁금해",
+    "label": 2
+  },
+  {
+    "question": "2학기 수강신청 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "휴학 복학 신청 기간이 언제야?",
+    "label": 2
+  },
+  {
+    "question": "등록금 납부일 알려줘",
+    "label": 2
+  },
+  {
+    "question": "하기 계절학기 일정은 어떻게 돼?",
+    "label": 2
+  },
+  {
+    "question": "동기 계절학기 수강신청은 언제 해?",
+    "label": 2
+  },
+  {
+    "question": "성적발표 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "학위수여식 날짜가 언제야?",
+    "label": 2
+  },
+  {
+    "question": "입학식 일정 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "보강 기간은 언제부터 언제까지야?",
+    "label": 2
+  },
+  {
+    "question": "수업일수 3/4선 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "방학 시작일이 언제야?",
+    "label": 2
+  },
+  {
+    "question": "오늘 학식 메뉴 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "제1학생회관 점심 식단 알려줘",
+    "label": 3
+  },
+  {
+    "question": "학생식당 중식 메뉴 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "이번 주 식단표 보여줘",
+    "label": 3
+  },
+  {
+    "question": "제2학생회관 석식 운영하나요?",
+    "label": 3
+  },
+  {
+    "question": "생활과학대학 식당 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "구내식당 조식 먹을 수 있어?",
+    "label": 3
+  },
+  {
+    "question": "오늘 점심 뭐 먹지 학식 추천해줘",
+    "label": 3
+  },
+  {
+    "question": "식당 원산지 정보 알려줘",
+    "label": 3
+  },
+  {
+    "question": "학생회관 식권은 어디서 확인해?",
+    "label": 3
+  },
+  {
+    "question": "제3학생회관 식단이 궁금해",
+    "label": 3
+  },
+  {
+    "question": "오늘 저녁 학식 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "식당 운영안함 여부 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "이번 주 학생식당 메뉴 링크 줘",
+    "label": 3
+  },
+  {
+    "question": "충남대 식당 메뉴 페이지 알려줘",
+    "label": 3
+  },
+  {
+    "question": "셔틀버스 시간표 알려줘",
+    "label": 4
+  },
+  {
+    "question": "월평역에서 학교 가는 셔틀 몇 시야?",
+    "label": 4
+  },
+  {
+    "question": "보운캠퍼스 가는 버스 운행해?",
+    "label": 4
+  },
+  {
+    "question": "대덕캠퍼스 순환버스 노선 알려줘",
+    "label": 4
+  },
+  {
+    "question": "셔틀 막차 시간이 언제야?",
+    "label": 4
+  },
+  {
+    "question": "통학버스 정류장 위치가 궁금해",
+    "label": 4
+  },
+  {
+    "question": "정심화국제문화회관에서 셔틀 탈 수 있어?",
+    "label": 4
+  },
+  {
+    "question": "골프연습장 출발 보운캠퍼스 셔틀 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "주말에도 학교 셔틀버스 운행하나요?",
+    "label": 4
+  },
+  {
+    "question": "방학 중 셔틀버스 미운영이야?",
+    "label": 4
+  },
+  {
+    "question": "교내 순환버스 첫차랑 막차 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충남대입구 버스정류장을 지나는 노선 있어?",
+    "label": 4
+  },
+  {
+    "question": "셔틀 배차 간격이 어떻게 돼?",
+    "label": 4
+  },
+  {
+    "question": "보운캠퍼스 회차 시간이 궁금해",
+    "label": 4
+  },
+  {
+    "question": "학교버스 운행 여부 확인해줘",
+    "label": 4
+  },
+  {
+    "question": "졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "졸업학점 130학점 맞아?",
+    "label": 0
+  },
+  {
+    "question": "입학연도별 졸업요건 어디서 확인해?",
+    "label": 0
+  },
+  {
+    "question": "전공필수 안 들으면 졸업 가능해?",
+    "label": 0
+  },
+  {
+    "question": "교양필수 학점 확인해줘",
+    "label": 0
+  },
+  {
+    "question": "복수전공하면 졸업요건 달라져?",
+    "label": 0
+  },
+  {
+    "question": "부전공 이수 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "졸업논문도 필수야?",
+    "label": 0
+  },
+  {
+    "question": "졸업사정 확인 방법 알려줘",
+    "label": 0
+  },
+  {
+    "question": "전공이랑 교양 졸업 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "최근 공지사항 보여줘",
+    "label": 1
+  },
+  {
+    "question": "장학 공지는 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "학사정보 게시판 어디 있어?",
+    "label": 1
+  },
+  {
+    "question": "새소식 게시판 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "교내 행사 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "특강 모집 공지 있어?",
+    "label": 1
+  },
+  {
+    "question": "채용 공고 어디서 확인해?",
+    "label": 1
+  },
+  {
+    "question": "교육정보 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "공지 담당 부서 확인하고 싶어",
+    "label": 1
+  },
+  {
+    "question": "오늘 올라온 학교 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "1학기 수강신청 언제야?",
+    "label": 2
+  },
+  {
+    "question": "수강정정 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "개강일 언제야?",
+    "label": 2
+  },
+  {
+    "question": "등록금 납부 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "휴학 신청 기간 언제야?",
+    "label": 2
+  },
+  {
+    "question": "복학 신청은 언제까지야?",
+    "label": 2
+  },
+  {
+    "question": "하기방학 언제 시작해?",
+    "label": 2
+  },
+  {
+    "question": "계절학기 수강신청 언제야?",
+    "label": 2
+  },
+  {
+    "question": "2학기 수강신청 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "오늘 학식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "제1학생회관 중식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제2학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "오늘 조식 운영해?",
+    "label": 3
+  },
+  {
+    "question": "저녁 학식 메뉴 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "학생식당 메뉴 링크 알려줘",
+    "label": 3
+  },
+  {
+    "question": "식당 원산지 알려줘",
+    "label": 3
+  },
+  {
+    "question": "오늘 중식 추천해줘",
+    "label": 3
+  },
+  {
+    "question": "월평역 셔틀 몇 시야?",
+    "label": 4
+  },
+  {
+    "question": "대덕캠퍼스 순환 셔틀 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "보운캠퍼스 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 주말에도 다녀?",
+    "label": 4
+  },
+  {
+    "question": "방학 중 셔틀 운행하나요?",
+    "label": 4
+  },
+  {
+    "question": "셔틀 정류장 위치 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충남대학교입구 정류장 지나는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "108번 버스는 어디로 들어와?",
+    "label": 4
+  },
+  {
+    "question": "108번 버스 충남대 정류장 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충대농대 정류장에 어떤 버스 와?",
+    "label": 4
+  },
+  {
+    "question": "중앙도서관 정류장 버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "통학버스 노선 알려줘",
+    "label": 4
+  },
+  {
+    "question": "복수전공 2015학번 이후 이수학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "건축학과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "건축학과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "건축학과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "건축학과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "건축학과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "의예과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "의예과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "의예과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "의예과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "의예과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "의학과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "의학과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "의학과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "의학과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "의학과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "수의예과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "수의예과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "수의예과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "수의예과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "수의예과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "수의학과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "수의학과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "수의학과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "수의학과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "수의학과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "간호학과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "간호학과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "간호학과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "간호학과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "간호학과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "약학과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "약학과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "약학과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "약학과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "약학과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "컴퓨터융합학부 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "컴퓨터융합학부 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "컴퓨터융합학부 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "컴퓨터융합학부 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "컴퓨터융합학부 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "복수전공 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "복수전공 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "복수전공 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "복수전공 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "복수전공 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "부전공 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "부전공 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "부전공 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "부전공 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "부전공 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "일반 학과 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "일반 학과 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "일반 학과 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "일반 학과 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "일반 학과 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "공과대학 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "공과대학 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "공과대학 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "공과대학 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "공과대학 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "사범대학 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "사범대학 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "사범대학 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "사범대학 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "사범대학 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "졸업 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "졸업 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "졸업 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "졸업 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "졸업 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "영어인증 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "영어인증 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "영어인증 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "영어인증 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "영어인증 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "전공필수 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "전공필수 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "전공필수 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "전공필수 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "전공필수 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "교양필수 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "교양필수 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "교양필수 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "교양필수 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "교양필수 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "졸업논문 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "졸업논문 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "졸업논문 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "졸업논문 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "졸업논문 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "입학연도별 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "입학연도별 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "입학연도별 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "입학연도별 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "입학연도별 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "복전 졸업학점 알려줘",
+    "label": 0
+  },
+  {
+    "question": "복전 졸업하려면 몇 학점 들어야 해?",
+    "label": 0
+  },
+  {
+    "question": "복전 학점 얼마나 채워야 졸업해?",
+    "label": 0
+  },
+  {
+    "question": "복전 졸업요건 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "복전 전공 학점 기준 알려줘",
+    "label": 0
+  },
+  {
+    "question": "컴퓨터융합학부 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "컴퓨터융합학부 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "컴퓨터융합학부 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "컴퓨터융합학부 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "컴퓨터융합학부 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "건축학과 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "건축학과 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "건축학과 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "건축학과 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "건축학과 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "학교 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "학교 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "학교 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "학교 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "학교 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "장학 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "장학 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "장학 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "장학 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "장학 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "학사정보 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "학사정보 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "학사정보 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "학사정보 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "새소식 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "새소식 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "새소식 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "새소식 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "새소식 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "교육정보 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "교육정보 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "교육정보 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "교육정보 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "채용 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "채용 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "채용 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "채용 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "채용 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "세미나 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "세미나 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "세미나 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "세미나 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "세미나 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "행사 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "행사 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "행사 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "행사 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "행사 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "학생증 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "학생증 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "학생증 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "학생증 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "학생증 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "생활관 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "생활관 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "생활관 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "생활관 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "생활관 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "기숙사 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "기숙사 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "기숙사 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "기숙사 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "기숙사 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "꿈모아 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "꿈모아 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "꿈모아 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "꿈모아 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "꿈모아 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "시크릿버스 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "시크릿버스 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "시크릿버스 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "시크릿버스 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "시크릿버스 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "백마봉사단 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "백마봉사단 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "백마봉사단 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "백마봉사단 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "백마봉사단 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "멀티 LLM 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "멀티 LLM 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "멀티 LLM 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "멀티 LLM 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "멀티 LLM 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "특강 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "특강 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "특강 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "특강 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "특강 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "모집 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "모집 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "모집 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "모집 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "모집 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "공지 공지 알려줘",
+    "label": 1
+  },
+  {
+    "question": "공지 공지사항 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "공지 최신 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "공지 게시판 알려줘",
+    "label": 1
+  },
+  {
+    "question": "공지 학과 공지 볼 수 있어?",
+    "label": 1
+  },
+  {
+    "question": "수강신청 언제야?",
+    "label": 2
+  },
+  {
+    "question": "수강신청 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "수강신청 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 수강신청 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "수강신청 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "수강정정 언제야?",
+    "label": 2
+  },
+  {
+    "question": "수강정정 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "수강정정 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 수강정정 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "수강정정 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "개강 언제야?",
+    "label": 2
+  },
+  {
+    "question": "개강 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "개강 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 개강 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "개강 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "종강 언제야?",
+    "label": 2
+  },
+  {
+    "question": "종강 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "종강 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 종강 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "종강 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "방학 언제야?",
+    "label": 2
+  },
+  {
+    "question": "방학 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "방학 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 방학 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "방학 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "성적발표 언제야?",
+    "label": 2
+  },
+  {
+    "question": "성적발표 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "성적발표 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 성적발표 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "성적발표 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "등록금 납부 언제야?",
+    "label": 2
+  },
+  {
+    "question": "등록금 납부 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "등록금 납부 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 등록금 납부 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "등록금 납부 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "휴학 신청 언제야?",
+    "label": 2
+  },
+  {
+    "question": "휴학 신청 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "휴학 신청 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 휴학 신청 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "휴학 신청 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "복학 신청 언제야?",
+    "label": 2
+  },
+  {
+    "question": "복학 신청 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "복학 신청 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 복학 신청 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "복학 신청 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "계절학기 언제야?",
+    "label": 2
+  },
+  {
+    "question": "계절학기 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "계절학기 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 계절학기 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "계절학기 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "입학식 언제야?",
+    "label": 2
+  },
+  {
+    "question": "입학식 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "입학식 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 입학식 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "입학식 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "학위수여식 언제야?",
+    "label": 2
+  },
+  {
+    "question": "학위수여식 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "학위수여식 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 학위수여식 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "학위수여식 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "중간고사 언제야?",
+    "label": 2
+  },
+  {
+    "question": "중간고사 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "중간고사 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 중간고사 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "중간고사 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "기말고사 언제야?",
+    "label": 2
+  },
+  {
+    "question": "기말고사 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "기말고사 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 기말고사 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "기말고사 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "수강취소 언제야?",
+    "label": 2
+  },
+  {
+    "question": "수강취소 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "수강취소 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 수강취소 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "수강취소 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "예비수강신청 언제야?",
+    "label": 2
+  },
+  {
+    "question": "예비수강신청 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "예비수강신청 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 예비수강신청 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "예비수강신청 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "2학기 수강신청 언제야?",
+    "label": 2
+  },
+  {
+    "question": "2학기 수강신청 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 2학기 수강신청 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "2학기 수강신청 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "1학기 개강 언제야?",
+    "label": 2
+  },
+  {
+    "question": "1학기 개강 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "1학기 개강 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 1학기 개강 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "1학기 개강 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "2학기 개강 언제야?",
+    "label": 2
+  },
+  {
+    "question": "2학기 개강 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "2학기 개강 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 2학기 개강 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "2학기 개강 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "여름방학 언제야?",
+    "label": 2
+  },
+  {
+    "question": "여름방학 일정 알려줘",
+    "label": 2
+  },
+  {
+    "question": "여름방학 기간 확인해줘",
+    "label": 2
+  },
+  {
+    "question": "2026학년도 여름방학 날짜 알려줘",
+    "label": 2
+  },
+  {
+    "question": "여름방학 며칠부터 며칠까지야?",
+    "label": 2
+  },
+  {
+    "question": "1학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "1학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "1학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "1학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "1학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "2학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "2학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "2학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "2학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "2학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "3학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "3학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "3학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "3학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "3학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "4학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "4학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "4학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "4학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "4학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "제1학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제1학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "제1학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제1학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "제1학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "제2학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제2학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "제2학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제2학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "제3학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제3학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "제3학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제3학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "제3학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "제4학생회관 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제4학생회관 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "제4학생회관 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "제4학생회관 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "제4학생회관 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "생활과학대학 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "생활과학대학 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "생활과학대학 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "생활과학대학 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "생활과학대학 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "생과대 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "생과대 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "생과대 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "생과대 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "생과대 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "1학식 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "1학식 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "1학식 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "1학식 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "1학식 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "2학식 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "2학식 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "2학식 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "2학식 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "2학식 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "3학식 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "3학식 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "3학식 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "3학식 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "3학식 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "4학식 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "4학식 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "4학식 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "4학식 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "4학식 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "학생식당 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "학생식당 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "학생식당 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "학생식당 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "학생식당 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "구내식당 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "구내식당 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "구내식당 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "구내식당 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "구내식당 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "오늘 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "오늘 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "오늘 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "오늘 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "오늘 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "중식 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "중식 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "중식 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "중식 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "중식 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "석식 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "석식 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "석식 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "석식 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "석식 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "조식 학식 알려줘",
+    "label": 3
+  },
+  {
+    "question": "조식 오늘 중식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "조식 점심 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "조식 식단 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "조식 메뉴 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "정문 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "정문 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "정문 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "정문 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "정문에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "유성온천역 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "유성온천역 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "유성온천역 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "유성온천역 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "유성온천역에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "월평역 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "월평역 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "월평역 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "월평역 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "월평역에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "중앙도서관 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "중앙도서관 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "중앙도서관 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "중앙도서관 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "중앙도서관에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "충남대도서관 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충남대도서관 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "충남대도서관 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충남대도서관 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "충남대도서관에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "충남대학교입구 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충남대학교입구 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "충남대학교입구 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충남대학교입구 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "충남대학교입구에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "충대농대 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충대농대 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "충대농대 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "충대농대 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "충대농대에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "산학연 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "산학연 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "산학연 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "산학연 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "산학연에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "보운캠퍼스 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "보운캠퍼스 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "보운캠퍼스 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "보운캠퍼스에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "대덕캠퍼스 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "대덕캠퍼스 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "대덕캠퍼스 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "대덕캠퍼스 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "대덕캠퍼스에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "골프연습장 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "골프연습장 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "골프연습장 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "골프연습장 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "골프연습장에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "108번 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "108번 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "108번 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "108번 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "108번에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "대덕-보운 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "대덕-보운 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "대덕-보운 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "대덕-보운 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "대덕-보운에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "순환 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "순환 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "순환 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "순환 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "순환에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "셔틀 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "셔틀 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "셔틀 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "셔틀 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "셔틀에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "통학버스 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "통학버스 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "통학버스 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "통학버스 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "통학버스에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "정심화 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "정심화 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "정심화 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "정심화 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "정심화에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "동문 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "동문 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "동문 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "동문 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "동문에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "서문 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "서문 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "서문 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "서문 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "서문에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "농대 셔틀버스 알려줘",
+    "label": 4
+  },
+  {
+    "question": "농대 정류장 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "농대 버스 시간 알려줘",
+    "label": 4
+  },
+  {
+    "question": "농대 셔틀 운행해?",
+    "label": 4
+  },
+  {
+    "question": "농대에서 학교 가는 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "졸업하려면 총 몇 학점 채워야 하나요?",
+    "label": 0
+  },
+  {
+    "question": "부전공 이수 기준이 궁금해",
+    "label": 0
+  },
+  {
+    "question": "130학점만 들으면 졸업 가능한가요?",
+    "label": 0
+  },
+  {
+    "question": "공과대학 졸업 요건 알려주세요",
+    "label": 0
+  },
+  {
+    "question": "컴공 졸업 학점 몇 점이야?",
+    "label": 0
+  },
+  {
+    "question": "졸업 자격 인증제가 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "영어 성적 없으면 졸업 못해?",
+    "label": 0
+  },
+  {
+    "question": "졸업 논문 대신 다른 걸로 대체 가능해?",
+    "label": 0
+  },
+  {
+    "question": "복수전공은 몇 학점 더 들어야 돼?",
+    "label": 0
+  },
+  {
+    "question": "마이크로디그리가 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "졸업 유예 신청 어떻게 해?",
+    "label": 0
+  },
+  {
+    "question": "조기 졸업 조건이 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "수료랑 졸업의 차이가 뭐야?",
+    "label": 0
+  },
+  {
+    "question": "졸업 사정 결과는 어디서 봐?",
+    "label": 0
+  },
+  {
+    "question": "융복합전공 졸업 요건 알려줘",
+    "label": 0
+  },
+  {
+    "question": "전과하면 졸업 학점 어떻게 돼?",
+    "label": 0
+  },
+  {
+    "question": "교양 8영역 다 들어야 돼?",
+    "label": 0
+  },
+  {
+    "question": "졸업 학점 부족하면 어떡해?",
+    "label": 0
+  },
+  {
+    "question": "막학기인데 졸업 요건 확인하고 싶어",
+    "label": 0
+  },
+  {
+    "question": "졸업 학점 계산기 어디 있어?",
+    "label": 0
+  },
+  {
+    "question": "전공 학점은 몇 점까지 들어야 돼?",
+    "label": 0
+  },
+  {
+    "question": "교필이랑 전필은 필수지?",
+    "label": 0
+  },
+  {
+    "question": "졸업 가능 여부 조회하는 법",
+    "label": 0
+  },
+  {
+    "question": "졸업 증명서 떼는 법",
+    "label": 0
+  },
+  {
+    "question": "학석사 통합과정 졸업 요건",
+    "label": 0
+  },
+  {
+    "question": "건축학과 졸업 학점은 160학점 맞아?",
+    "label": 0
+  },
+  {
+    "question": "의대 졸업하려면 뭐 해야 돼?",
+    "label": 0
+  },
+  {
+    "question": "약대 졸업 요건 궁금해",
+    "label": 0
+  },
+  {
+    "question": "사범대 교직 이수 졸업 요건",
+    "label": 0
+  },
+  {
+    "question": "졸업 사정 기간이 언제야?",
+    "label": 0
+  },
+  {
+    "question": "졸업 연기하고 싶은데 방법 알려줘",
+    "label": 0
+  },
+  {
+    "question": "학점 포기하면 졸업에 지장 있어?",
+    "label": 0
+  },
+  {
+    "question": "대체 이수 가능한 과목 알려줘",
+    "label": 0
+  },
+  {
+    "question": "졸업 자격 자가진단 어떻게 해?",
+    "label": 0
+  },
+  {
+    "question": "백마광장 공지사항 링크 좀",
+    "label": 1
+  },
+  {
+    "question": "성적 장학금 공지 떴어?",
+    "label": 1
+  },
+  {
+    "question": "국가장학금 신청 공지 어디야?",
+    "label": 1
+  },
+  {
+    "question": "학과 홈페이지 공지사항",
+    "label": 1
+  },
+  {
+    "question": "학교 공지 알림 설정 어떻게 해?",
+    "label": 1
+  },
+  {
+    "question": "긴급 공지사항 있어?",
+    "label": 1
+  },
+  {
+    "question": "생활관 모집 공고 언제 올라와?",
+    "label": 1
+  },
+  {
+    "question": "도서관 휴관 공지 확인해줘",
+    "label": 1
+  },
+  {
+    "question": "학교 축제 일정 공지 나왔어?",
+    "label": 1
+  },
+  {
+    "question": "해외 파견 프로그램 공고",
+    "label": 1
+  },
+  {
+    "question": "비교과 프로그램 모집 공지",
+    "label": 1
+  },
+  {
+    "question": "근로장학금 모집 공고 어디서 봐?",
+    "label": 1
+  },
+  {
+    "question": "학위 수여식 안내 공지",
+    "label": 1
+  },
+  {
+    "question": "졸업 앨범 촬영 공지사항",
+    "label": 1
+  },
+  {
+    "question": "교내 공모전 소식 알려줘",
+    "label": 1
+  },
+  {
+    "question": "학생회 공지사항 확인",
+    "label": 1
+  },
+  {
+    "question": "학교 메인 공지 요약해줘",
+    "label": 1
+  },
+  {
+    "question": "학과 사무실 연락처 공지",
+    "label": 1
+  },
+  {
+    "question": "강의실 대관 공지",
+    "label": 1
+  },
+  {
+    "question": "주차 안내 공고",
+    "label": 1
+  },
+  {
+    "question": "셔틀버스 노선 변경 공지",
+    "label": 1
+  },
+  {
+    "question": "식당 메뉴 변경 공지",
+    "label": 1
+  },
+  {
+    "question": "학교 건물 공사 공지",
+    "label": 1
+  },
+  {
+    "question": "수강 신청 안내 공지",
+    "label": 1
+  },
+  {
+    "question": "예비군 훈련 공지사항",
+    "label": 1
+  },
+  {
+    "question": "종강 언제 해?",
+    "label": 2
+  },
+  {
+    "question": "기말고사 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "중간고사 언제부터야?",
+    "label": 2
+  },
+  {
+    "question": "축제 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "학기 시작일이 언제야?",
+    "label": 2
+  },
+  {
+    "question": "동계 방학 일정",
+    "label": 2
+  },
+  {
+    "question": "수강 취소 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "학위 수여식 날짜",
+    "label": 2
+  },
+  {
+    "question": "개교 기념일 쉬나요?",
+    "label": 2
+  },
+  {
+    "question": "보강 주간이 언제야?",
+    "label": 2
+  },
+  {
+    "question": "학사 일정표 어디서 봐?",
+    "label": 2
+  },
+  {
+    "question": "내년 학사 일정 나왔어?",
+    "label": 2
+  },
+  {
+    "question": "수강 바구니 기간",
+    "label": 2
+  },
+  {
+    "question": "성적 이의신청 기간",
+    "label": 2
+  },
+  {
+    "question": "예비 수강신청은 언제야?",
+    "label": 2
+  },
+  {
+    "question": "등록금 분할 납부 일정",
+    "label": 2
+  },
+  {
+    "question": "추가 등록 기간 알려줘",
+    "label": 2
+  },
+  {
+    "question": "전과 신청 기간",
+    "label": 2
+  },
+  {
+    "question": "복수전공 신청 기간",
+    "label": 2
+  },
+  {
+    "question": "휴학 연장 신청 언제까지야?",
+    "label": 2
+  },
+  {
+    "question": "군 휴학 신청 방법이랑 기간",
+    "label": 2
+  },
+  {
+    "question": "질병 휴학 신청 기간",
+    "label": 2
+  },
+  {
+    "question": "재입학 신청 언제 해?",
+    "label": 2
+  },
+  {
+    "question": "졸업 사정 기간",
+    "label": 2
+  },
+  {
+    "question": "교내 장학금 신청 기간",
+    "label": 2
+  },
+  {
+    "question": "학기 일정 요약해줘",
+    "label": 2
+  },
+  {
+    "question": "학식 가격 얼마야?",
+    "label": 3
+  },
+  {
+    "question": "제3학생회관 메뉴 좀",
+    "label": 3
+  },
+  {
+    "question": "제4학생회관 식단 알려줘",
+    "label": 3
+  },
+  {
+    "question": "오늘 라면 나와?",
+    "label": 3
+  },
+  {
+    "question": "기숙사 식당 메뉴 궁금해",
+    "label": 3
+  },
+  {
+    "question": "학생회관 식당 운영 시간",
+    "label": 3
+  },
+  {
+    "question": "채식 메뉴 있어?",
+    "label": 3
+  },
+  {
+    "question": "오늘의 특식 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "학식 맛있는 곳 추천해줘",
+    "label": 3
+  },
+  {
+    "question": "학식 결제 카드 돼?",
+    "label": 3
+  },
+  {
+    "question": "오늘 식단표 업데이트 됐어?",
+    "label": 3
+  },
+  {
+    "question": "점심 뭐 먹을까?",
+    "label": 3
+  },
+  {
+    "question": "저녁 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "학식 품절됐나?",
+    "label": 3
+  },
+  {
+    "question": "외부인도 학식 먹을 수 있어?",
+    "label": 3
+  },
+  {
+    "question": "학식 키오스크 어디 있어?",
+    "label": 3
+  },
+  {
+    "question": "오늘 고기 메뉴 있어?",
+    "label": 3
+  },
+  {
+    "question": "생과대 점심 메뉴 뭐야?",
+    "label": 3
+  },
+  {
+    "question": "1학식 저녁 메뉴",
+    "label": 3
+  },
+  {
+    "question": "2학식 메뉴 알려줘",
+    "label": 3
+  },
+  {
+    "question": "3학식 오늘 뭐 나와?",
+    "label": 3
+  },
+  {
+    "question": "학생식당 전화번호",
+    "label": 3
+  },
+  {
+    "question": "식당 휴무일 확인해줘",
+    "label": 3
+  },
+  {
+    "question": "오늘 공휴일인데 식당 열어?",
+    "label": 3
+  },
+  {
+    "question": "셔틀버스 요금 있어?",
+    "label": 4
+  },
+  {
+    "question": "등교 셔틀 첫차 시간",
+    "label": 4
+  },
+  {
+    "question": "하교 셔틀 막차 시간",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 앱 어디서 받아?",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 실시간 위치",
+    "label": 4
+  },
+  {
+    "question": "월평역 등교 셔틀 어디서 타?",
+    "label": 4
+  },
+  {
+    "question": "유성온천역 셔틀 있어?",
+    "label": 4
+  },
+  {
+    "question": "노은동 가는 통학버스",
+    "label": 4
+  },
+  {
+    "question": "세종 가는 통학버스 시간표",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 노선도 보여줘",
+    "label": 4
+  },
+  {
+    "question": "중앙도서관 가는 버스",
+    "label": 4
+  },
+  {
+    "question": "산학연 가는 셔틀",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 지연됐나?",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 운행 중단 공지",
+    "label": 4
+  },
+  {
+    "question": "축제 기간 셔틀 연장 운행해?",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 정류장 이름들 알려줘",
+    "label": 4
+  },
+  {
+    "question": "학교 안에 버스 다녀?",
+    "label": 4
+  },
+  {
+    "question": "108번 버스 종점이 어디야?",
+    "label": 4
+  },
+  {
+    "question": "충남대 정류장 이름 알려줘",
+    "label": 4
+  },
+  {
+    "question": "시내버스 노선 확인",
+    "label": 4
+  },
+  {
+    "question": "셔틀버스 시간표 PDF 어디 있어?",
+    "label": 4
+  },
+  {
+    "question": "오늘 셔틀 운행 안 해?",
+    "label": 4
+  },
+  {
+    "question": "학교 식당 몇 시야?",
+    "label": 3
+  },
+  {
+    "question": "식당 몇 시에 열어?",
+    "label": 3
+  },
+  {
+    "question": "학식 몇 시까지야?",
+    "label": 3
+  },
+  {
+    "question": "밥 몇 시까지 먹을 수 있어?",
+    "label": 3
+  },
+  {
+    "question": "학생식당 운영 시간 알려줘",
+    "label": 3
+  },
+  {
+    "question": "식당 운영 시간이 어떻게 돼?",
+    "label": 3
+  },
+  {
+    "question": "학식 운영 시간",
+    "label": 3
+  },
+  {
+    "question": "밥 언제까지 먹을 수 있어?",
+    "label": 3
+  },
+  {
+    "question": "점심 몇 시에 먹어?",
+    "label": 3
+  },
+  {
+    "question": "저녁 식당 몇 시야?",
+    "label": 3
+  },
+  {
+    "question": "조식은 언제까지야?",
+    "label": 3
+  },
+  {
+    "question": "학생회관 몇 시에 문 열어?",
+    "label": 3
+  },
+  {
+    "question": "학생회관 영업 시간",
+    "label": 3
+  },
+  {
+    "question": "학식 지금 운영 중이야?",
+    "label": 3
+  },
+  {
+    "question": "밥 지금 먹을 수 있어?",
+    "label": 3
+  }
+]

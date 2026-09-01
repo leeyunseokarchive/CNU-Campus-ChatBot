@@ -1,0 +1,20 @@
+{
+  "base_model": "monologg/koelectra-base-v3-discriminator",
+  "labels": {
+    "0": "졸업요건",
+    "1": "학교 공지사항",
+    "2": "학사일정",
+    "3": "식단 안내",
+    "4": "통학/셔틀 버스"
+  },
+  "train_rows": 605,
+  "validation_rows": 152,
+  "metrics": {
+    "eval_loss": 0.23365050554275513,
+    "eval_accuracy": 0.993421052631579,
+    "eval_runtime": 0.2489,
+    "eval_samples_per_second": 610.805,
+    "eval_steps_per_second": 40.185,
+    "epoch": 5.0
+  }
+}

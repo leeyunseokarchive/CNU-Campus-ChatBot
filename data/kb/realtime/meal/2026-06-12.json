@@ -1,0 +1,238 @@
+{
+  "category": "meal",
+  "date": "2026-06-12",
+  "crawled_at": "2026-06-12T17:19:25.791773",
+  "items": [
+    {
+      "restaurant": "제1학생회관",
+      "meal_type": "조식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제1학생회관 조식 (학생)",
+      "menu_items": [
+        "정식(1000)",
+        "해물볶음밥",
+        "미역된장국",
+        "핫도그(pork included)",
+        "깍두기"
+      ],
+      "content": "정식(1000)\n해물볶음밥\n미역된장국\n핫도그(pork included)\n깍두기",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "제1학생회관",
+      "meal_type": "중식",
+      "staff_student": "직원",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제1학생회관 중식 (직원)",
+      "menu_items": [
+        "정식(6000)",
+        "소고기샤브샐러드(beef included)",
+        "춘권튀김",
+        "고구마맛탕",
+        "깻잎지",
+        "배추김치"
+      ],
+      "content": "정식(6000)\n소고기샤브샐러드(beef included)\n춘권튀김\n고구마맛탕\n깻잎지\n배추김치",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "제1학생회관",
+      "meal_type": "중식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제1학생회관 중식 (학생)",
+      "menu_items": [
+        "정식(4500)",
+        "함박토마토파스타(pork included)",
+        "스프",
+        "모닝빵&딸기잼",
+        "오이피클"
+      ],
+      "content": "정식(4500)\n함박토마토파스타(pork included)\n스프\n모닝빵&딸기잼\n오이피클",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "제2학생회관",
+      "meal_type": "중식",
+      "staff_student": "직원",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제2학생회관 중식 (직원)",
+      "menu_items": [
+        "정식(6000)",
+        "쌀밥",
+        "닭곰탕(chicken included)",
+        "해물완자전",
+        "곤약고기볶음(pork included)",
+        "부추무침",
+        "깍두기"
+      ],
+      "content": "정식(6000)\n쌀밥\n닭곰탕(chicken included)\n해물완자전\n곤약고기볶음(pork included)\n부추무침\n깍두기",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "제2학생회관",
+      "meal_type": "중식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제2학생회관 중식 (학생)",
+      "menu_items": [
+        "정식(4000)",
+        "등촌샤브칼국수(beef included)",
+        "교자만두찜(pork included)"
+      ],
+      "content": "정식(4000)\n등촌샤브칼국수(beef included)\n교자만두찜(pork included)",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "제2학생회관",
+      "meal_type": "석식",
+      "staff_student": "직원",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제2학생회관 석식 (직원)",
+      "menu_items": [
+        "정식(6000)",
+        "쌀밥",
+        "고구마치즈돈까스(pork included)",
+        "맑은장국",
+        "로제소스팬네파스타(pork included)",
+        "씨리얼샐러드",
+        "단무지"
+      ],
+      "content": "정식(6000)\n쌀밥\n고구마치즈돈까스(pork included)\n맑은장국\n로제소스팬네파스타(pork included)\n씨리얼샐러드\n단무지",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "제3학생회관",
+      "meal_type": "중식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제3학생회관 중식 (학생)",
+      "menu_items": [
+        "정식(6000)",
+        "베트남쌀국수(beef included)",
+        "후리가케주먹밥",
+        "춘권튀김",
+        "망고샐러드",
+        "배추김치"
+      ],
+      "content": "정식(6000)\n베트남쌀국수(beef included)\n후리가케주먹밥\n춘권튀김\n망고샐러드\n배추김치",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "제4학생회관",
+      "meal_type": "중식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 제4학생회관 중식 (학생)",
+      "menu_items": [
+        "정식(6000)",
+        "일식새우커리",
+        "맑은우동국물",
+        "샐러드파스타",
+        "김떡만강정(pork included)",
+        "배추김치"
+      ],
+      "content": "정식(6000)\n일식새우커리\n맑은우동국물\n샐러드파스타\n김떡만강정(pork included)\n배추김치",
+      "source": "mobileadmin"
+    },
+    {
+      "restaurant": "학생생활관",
+      "meal_type": "조식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 학생생활관 조식",
+      "menu_items": [
+        "메인A(748kcal)",
+        "잡곡밥",
+        "시금치된장국",
+        "가자미튀김",
+        "닭살겨자냉채",
+        "우엉조림",
+        "포기김치",
+        "메인C(681kcal)",
+        "식빵&쨈&버터",
+        "소보루단팥빵 1,2,4,5,6 (땅콩)",
+        "씨리얼&양송이스프",
+        "양상추샐러드",
+        "계란찜",
+        "*우유(공통)*",
+        "Mixed Grain Rice",
+        "Spinach Soybean Paste Soup",
+        "Deep-Fried Flatfish",
+        "Chilled Shredded Chicken with Mustard Sauce",
+        "Braised Burdock Root",
+        "Sliced Kimchi",
+        "White Bread with Jam & Butter",
+        "Soboro Red Bean Bread",
+        "Cereal & Mushroom Soup",
+        "Lettuce Salad",
+        "Steamed Egg Cup",
+        "*milk*"
+      ],
+      "content": "메인A(748kcal)\n잡곡밥\n시금치된장국\n가자미튀김\n닭살겨자냉채\n우엉조림\n포기김치\n메인C(681kcal)\n식빵&쨈&버터\n소보루단팥빵 1,2,4,5,6 (땅콩)\n씨리얼&양송이스프\n양상추샐러드\n계란찜\n*우유(공통)*\nMixed Grain Rice\nSpinach Soybean Paste Soup\nDeep-Fried Flatfish\nChilled Shredded Chicken with Mustard Sauce\nBraised Burdock Root\nSliced Kimchi\nWhite Bread with Jam & Butter\nSoboro Red Bean Bread\nCereal & Mushroom Soup\nLettuce Salad\nSteamed Egg Cup\n*milk*",
+      "source": "dorm"
+    },
+    {
+      "restaurant": "학생생활관",
+      "meal_type": "중식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 학생생활관 중식",
+      "menu_items": [
+        "메인A(1119kcal)",
+        "잡곡밥",
+        "청국장찌개",
+        "미트볼칠리조림",
+        "꽃맛살샐러드",
+        "숙주나물",
+        "포기김치",
+        "메인C(795kcal)",
+        "비빔야채쫄면",
+        "우동국물",
+        "고구마맛탕-제한",
+        "단무지",
+        "추가밥",
+        "Mixed Grain Rice",
+        "Rich Soybean Paste Stew",
+        "Meatballs in Chili Sauce",
+        "Chilled Crab Meat Salad",
+        "Seasoned Mung Bean Sprouts",
+        "Sliced Kimchi",
+        "Spicy Cold Chewy Noodles with Veges",
+        "Udon Broth",
+        "Candied Sweet Potatoes",
+        "Pickled Yellow Radish",
+        "Additional Rice"
+      ],
+      "content": "메인A(1119kcal)\n잡곡밥\n청국장찌개\n미트볼칠리조림\n꽃맛살샐러드\n숙주나물\n포기김치\n메인C(795kcal)\n비빔야채쫄면\n우동국물\n고구마맛탕-제한\n단무지\n추가밥\nMixed Grain Rice\nRich Soybean Paste Stew\nMeatballs in Chili Sauce\nChilled Crab Meat Salad\nSeasoned Mung Bean Sprouts\nSliced Kimchi\nSpicy Cold Chewy Noodles with Veges\nUdon Broth\nCandied Sweet Potatoes\nPickled Yellow Radish\nAdditional Rice",
+      "source": "dorm"
+    },
+    {
+      "restaurant": "학생생활관",
+      "meal_type": "석식",
+      "staff_student": "학생",
+      "date": "2026-06-12",
+      "title": "2026-06-12 학생생활관 석식",
+      "menu_items": [
+        "메인A(859kcal)",
+        "이벤트식",
+        "쌀밥",
+        "반계탕",
+        "만두강정",
+        "실곤약무침",
+        "포기김치",
+        "바나나",
+        "Special Event Meal",
+        "White Rice",
+        "Half-Chicken Soup",
+        "Deep-Fried Dumplings with Sweet & Spicy Sauce",
+        "Chilled Konjac Noodle Salad",
+        "Sliced Kimchi",
+        "banana"
+      ],
+      "content": "메인A(859kcal)\n이벤트식\n쌀밥\n반계탕\n만두강정\n실곤약무침\n포기김치\n바나나\nSpecial Event Meal\nWhite Rice\nHalf-Chicken Soup\nDeep-Fried Dumplings with Sweet & Spicy Sauce\nChilled Konjac Noodle Salad\nSliced Kimchi\nbanana",
+      "source": "dorm"
+    }
+  ]
+}

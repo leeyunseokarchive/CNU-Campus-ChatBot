@@ -1,0 +1,602 @@
+[
+  {
+    "user": "졸업학점 알려줘",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "졸업 몇 학점이야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "컴융 졸업요건이 뭐야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "AI학과 졸업 조건 알려줘",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "부전공 학점 몇 이수해야 해?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "복수전공 신청 조건이 뭐야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "졸업자가진단 어디서 해?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "전공필수 이수 현황 확인하고 싶어",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "졸업유예 신청 방법 알려줘",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "조기졸업 조건이 뭐야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "성적경고 몇 번 받으면 제적이야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "재학연한 초과하면 어떻게 돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "학점교류 졸업학점 포함돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "교양 이수학점은 얼마야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "전과 신청하면 졸업요건 바뀌어?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "재입학 신청 어떻게 해?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "자퇴하고 싶은데 절차가 어떻게 돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "졸업논문 꼭 써야 해?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "공대 졸업학점은 140이야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "부전공이 졸업장에 표기돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "복수전공 취소하면 어떻게 돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "졸업사정 일정 알려줘",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "마이크로디그리 뭐야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "계절학기 학점도 졸업학점에 포함돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "영어인증이 졸업 요건에 포함돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "학점 부족한데 어떻게 해?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "교직 이수 신청 조건이 뭐야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "연계전공이 뭐야?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "전공선택 학점 얼마나 필요해?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "졸업요건 미충족하면 어떻게 돼?",
+    "expected_source": "graduation_db"
+  },
+  {
+    "user": "최근 공지사항 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "충남대 최신 뉴스 뭐야?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "채용 공고 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "장학금 공지 언제 나와?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "학교 행사 일정 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "BK21 공지 어디서 봐?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "도서관 공지 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "기숙사 공고 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "교환학생 모집 공고 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "세미나 행사 공지 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "취업 관련 공고 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "이번 학기 중요 공지 뭐야?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "등록금 관련 공지 나왔어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "예비군 훈련 공지 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "현수막 신청 공지 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "수업 관련 긴급 공지 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "학칙 변경 공고 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "장학생 선발 공고 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "충남대 최신 채용 공고 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "연구비 관련 공지 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "충남대 홈페이지 공지 확인하고 싶어",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "학과 공지 어디서 봐?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "학사 공지 최신 거 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "안전 관련 공지 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "복지 관련 공지 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "입학 관련 공지 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "휴강 공지 어디서 봐?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "교수 채용 공고 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "대학원 공지 있어?",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "학교 행사 일정 알려줘",
+    "expected_source": "notice_db"
+  },
+  {
+    "user": "수강신청 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "이번 학기 개강일이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "기말고사 기간 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "중간고사 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "수강정정 기간이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "계절학기 신청 일정 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "성적발표 날짜 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "예수 일정 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "학사일정 확인하고 싶어",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "종강이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "등록금 납부 기간이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "휴학 신청 기간이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "복학 신청 언제까지야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "졸업식 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "수강신청 몇 시부터야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "하기 계절학기 일정이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "동계 계절학기 신청 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "성적정정 기간 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "학기 시작 날짜 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "이번 학기 방학이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "2학기 개강 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "재학생 수강신청 일정이 궁금해",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "강의계획서 언제 공개돼?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "학점포기 신청 기간이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "졸업사정 날짜 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "수업 개시일 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "성적 이의신청 기간 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "계절학기 등록 기간 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "이번 학기 수강신청 정정 기간이 언제야?",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "1학기 기말고사 날짜 알려줘",
+    "expected_source": "schedule_db"
+  },
+  {
+    "user": "오늘 학식 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "1학 점심 메뉴 알려줘",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "2학 오늘 뭐 나와?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "4학 오늘 메뉴 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "이번 주 식단 알려줘",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 아침 학식 있어?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "학생식당 오늘 메뉴 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "기숙사 식당 오늘 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "생과대 식당 오늘 메뉴 알려줘",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "사대 근처 식당 오늘 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 저녁 학식 메뉴 알려줘",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 특식 있어?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "학식 운영시간 알려줘",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 국은 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "이번 주 학식 미리 알 수 있어?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 점심 뭐 먹지",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 반찬 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "밥 몇 시부터야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "저녁 식사 몇 시까지야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 1학 밥 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "학식 주간 메뉴 알려줘",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 학식 뭐 나왔어?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "2학 오늘 점심 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 학식 메뉴 확인하고 싶어",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "학식 오늘 메뉴 사진 있어?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 학식 괜찮아?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "방학에도 학식 해?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "토요일 학식 있어?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "오늘 1학 저녁 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "기숙사 밥 오늘 뭐야?",
+    "expected_source": "cafeteria_db"
+  },
+  {
+    "user": "월평역 셔틀 시간 알려줘",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 시간표 알려줘",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "정문 셔틀 타는 곳 어디야?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "교내 순환버스 시간 알려줘",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "보운캠퍼스 가는 셔틀 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 노선 알려줘",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀 첫차 몇 시야?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 막차 몇 시야?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "캠퍼스 순환 셔틀 언제야?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "골프연습장에서 셔틀 타면 돼?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 오늘 운행해?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "통학버스 정류장 어디야?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 주말에도 와?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "방학 때 셔틀 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 몇 분 간격이야?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "농대쪽 셔틀 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "예술대학 앞에 셔틀 서?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "서문에서 셔틀 타는 곳 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "중도 셔틀 정류장 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "정심화 국제문화회관 셔틀 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "학생생활관에서 셔틀 타는 곳 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 오늘 언제 오는지 알려줘",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 타면 어디까지 가?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "공대 근처 셔틀 정류장 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 탑승 위치 알려줘",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "월평역에서 학교까지 셔틀 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀 몇 시에 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 오늘 운행 일정 알려줘",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "동문주차장 셔틀 타는 곳 있어?",
+    "expected_source": "shuttle_db"
+  },
+  {
+    "user": "셔틀버스 오전 시간표 알려줘",
+    "expected_source": "shuttle_db"
+  }
+]

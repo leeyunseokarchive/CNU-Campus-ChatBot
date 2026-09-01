@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# 실행 산출물
+outputs/
+chroma_db/
+*.log
+
+# Env
+.env

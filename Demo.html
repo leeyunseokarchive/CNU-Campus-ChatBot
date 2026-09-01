@@ -1,0 +1,326 @@
+<!DOCTYPE html><html lang="ko" style=""><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Academic Intelligence - CNU Chatbot</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=JetBrains+Mono:wght@400&amp;family=Pretendard:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "text-link": "#0d74ce",
+                        "on-surface-variant": "#434752",
+                        "surface-container-lowest": "#ffffff",
+                        "primary-container": "#004094",
+                        "on-tertiary-fixed-variant": "#7d2d02",
+                        "sky-light": "#cfe7ff",
+                        "surface-tint": "#2e5bb0",
+                        "surface-container-low": "#f0f3fd",
+                        "background": "#f8f9ff",
+                        "on-secondary-container": "#636262",
+                        "primary-fixed-dim": "#afc6ff",
+                        "on-primary": "#ffffff",
+                        "cnu-blue-active": "#002d66",
+                        "hairline-strong": "#dcdee0",
+                        "on-secondary": "#ffffff",
+                        "on-tertiary-fixed": "#360f00",
+                        "surface-container-high": "#e5e8f1",
+                        "surface-bright": "#f8f9ff",
+                        "inverse-on-surface": "#eef1fa",
+                        "surface-dim": "#d7dae3",
+                        "surface-container-highest": "#dfe2ec",
+                        "inverse-surface": "#2c3138",
+                        "tertiary-fixed-dim": "#ffb597",
+                        "sky-mid": "#a8c8e8",
+                        "tertiary": "#551b00",
+                        "secondary-fixed": "#e5e2e1",
+                        "on-secondary-fixed-variant": "#474746",
+                        "hairline": "#f0f0f3",
+                        "cnu-blue": "#004094",
+                        "secondary-fixed-dim": "#c8c6c5",
+                        "canvas": "#ffffff",
+                        "inverse-primary": "#afc6ff",
+                        "on-error-container": "#93000a",
+                        "on-error": "#ffffff",
+                        "tertiary-container": "#792b00",
+                        "secondary": "#5f5e5e",
+                        "error": "#ba1a1a",
+                        "surface-strong": "#f0f0f3",
+                        "surface": "#f8f9ff",
+                        "canvas-soft": "#fafafa",
+                        "error-container": "#ffdad6",
+                        "outline-variant": "#c3c6d3",
+                        "on-primary-container": "#8eb0ff",
+                        "on-primary-fixed-variant": "#064397",
+                        "on-tertiary-container": "#ff9669",
+                        "surface-dark": "#171717",
+                        "primary-fixed": "#d9e2ff",
+                        "on-tertiary": "#ffffff",
+                        "tertiary-fixed": "#ffdbcd",
+                        "secondary-container": "#e2dfde",
+                        "primary": "#002b68",
+                        "on-background": "#181c22",
+                        "surface-container": "#ebeef7",
+                        "outline": "#737783",
+                        "on-primary-fixed": "#001944",
+                        "surface-variant": "#dfe2ec",
+                        "on-surface": "#181c22",
+                        "on-secondary-fixed": "#1c1b1b"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "lg": "24px",
+                        "section": "96px",
+                        "md": "16px",
+                        "sm": "12px",
+                        "xs": "8px",
+                        "container-max": "1200px",
+                        "xl": "32px",
+                        "base": "4px"
+                    },
+                    "fontFamily": {
+                        "display-mega-mobile": ["Inter", "Pretendard", "sans-serif"],
+                        "button": ["Inter", "Pretendard", "sans-serif"],
+                        "display-lg": ["Inter", "Pretendard", "sans-serif"],
+                        "body-md": ["Inter", "Pretendard", "sans-serif"],
+                        "display-md": ["Inter", "Pretendard", "sans-serif"],
+                        "code": ["JetBrains Mono", "monospace"],
+                        "caption-caps": ["Inter", "Pretendard", "sans-serif"],
+                        "body-sm": ["Inter", "Pretendard", "sans-serif"],
+                        "title-md": ["Inter", "Pretendard", "sans-serif"],
+                        "display-mega": ["Inter", "Pretendard", "sans-serif"]
+                    },
+                    "fontSize": {
+                        "display-mega-mobile": ["32px", { "lineHeight": "36px", "letterSpacing": "-0.96px", "fontWeight": "600" }],
+                        "button": ["14px", { "lineHeight": "14px", "letterSpacing": "0", "fontWeight": "500" }],
+                        "display-lg": ["36px", { "lineHeight": "42px", "letterSpacing": "-1.08px", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "24px", "letterSpacing": "0", "fontWeight": "400" }],
+                        "display-md": ["28px", { "lineHeight": "34px", "letterSpacing": "-0.84px", "fontWeight": "600" }],
+                        "code": ["13px", { "lineHeight": "20px", "letterSpacing": "0", "fontWeight": "400" }],
+                        "caption-caps": ["11px", { "lineHeight": "15px", "letterSpacing": "0.88px", "fontWeight": "600" }],
+                        "body-sm": ["14px", { "lineHeight": "21px", "letterSpacing": "0", "fontWeight": "400" }],
+                        "title-md": ["18px", { "lineHeight": "25px", "letterSpacing": "0", "fontWeight": "600" }],
+                        "display-mega": ["64px", { "lineHeight": "68px", "letterSpacing": "-1.92px", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+@keyframes dot-blink {
+    0%, 20%  { opacity: 1; }
+    50%      { opacity: 0.2; }
+    80%, 100%{ opacity: 1; }
+}
+.generating-dots span { display: inline-block; animation: dot-blink 1.4s infinite; }
+.generating-dots span:nth-child(2) { animation-delay: 0.2s; }
+.generating-dots span:nth-child(3) { animation-delay: 0.4s; }
+</style>
+</head>
+<body class="bg-gradient-to-b from-canvas via-sky-light/10 to-surface-container text-on-background h-screen overflow-hidden flex flex-col font-body-md text-body-md">
+<!-- TopAppBar -->
+<header class="flex justify-between items-center w-full px-lg h-16 bg-canvas border-b border-hairline-strong shrink-0 z-20 relative">
+<div class="flex items-center gap-xs">
+<span class="material-symbols-outlined text-primary text-[28px]" style="font-variation-settings: &quot;FILL&quot; 1;">school</span>
+<span class="font-display-md text-display-md font-bold tracking-tight text-primary">CNU LLM Chatbot</span>
+</div>
+<nav class="hidden md:flex gap-lg h-full">
+
+
+
+</nav>
+<div class="flex items-center gap-sm">
+
+<button class="p-xs text-secondary hover:text-primary transition-colors scale-95 duration-100">
+
+</button>
+<button class="p-xs text-secondary hover:text-primary transition-colors scale-95 duration-100">
+
+</button>
+
+</div>
+</header>
+<div class="flex flex-1 overflow-hidden relative">
+<!-- SideNavBar -->
+
+<!-- Main Chat Area -->
+<main class="flex-1 flex flex-col relative overflow-hidden">
+<!-- Atmospheric Gradient -->
+<div class="absolute inset-0 bg-gradient-to-b from-transparent via-sky-light/10 to-transparent pointer-events-none z-0"></div>
+<!-- Suggested Topics - always visible at top -->
+<div id="suggested-topics" class="grid grid-cols-1 md:grid-cols-3 gap-md max-w-[800px] mx-auto w-full px-lg md:px-section pt-lg pb-sm shrink-0 relative z-10">
+<button id="btn-calendar" class="p-md rounded-xl border border-hairline-strong bg-canvas/80 backdrop-blur-sm hover:shadow-lg hover:border-cnu-blue transition-all duration-200 text-left group">
+<span class="material-symbols-outlined text-text-link mb-sm block group-hover:scale-110 transition-transform">event_note</span>
+<span class="block font-title-md text-title-md text-on-surface mb-xs">학사일정 안내</span>
+<span class="block font-body-sm text-body-sm text-secondary">"가장 가까운 학사일정 알려주세요."</span>
+</button>
+<button id="btn-graduation" class="p-md rounded-xl border border-hairline-strong bg-canvas/80 backdrop-blur-sm hover:shadow-lg hover:border-cnu-blue transition-all duration-200 text-left group">
+<span class="material-symbols-outlined text-text-link mb-sm block group-hover:scale-110 transition-transform">science</span>
+<span class="block font-title-md text-title-md text-on-surface mb-xs">졸업 요건 확인&nbsp; &nbsp;</span>
+<span class="block font-body-sm text-body-sm text-secondary">"졸업하려면 몇 학점 필요한가요?"</span>
+</button>
+<button id="btn-shuttle" class="p-md rounded-xl border border-hairline-strong bg-canvas/80 backdrop-blur-sm hover:shadow-lg hover:border-cnu-blue transition-all duration-200 text-left group">
+<span class="material-symbols-outlined text-text-link mb-sm block group-hover:scale-110 transition-transform">local_library</span>
+<span class="block font-title-md text-title-md text-on-surface mb-xs">셔틀버스 정보&nbsp;&nbsp;</span>
+<span class="block font-body-sm text-body-sm text-secondary">"셔틀버스 시간표와 노선 알려주세요."</span>
+</button>
+</div>
+<!-- Chat Messages Container -->
+<div id="scroll-area" class="flex-1 overflow-y-auto px-lg md:px-section pt-sm relative z-10 flex flex-col gap-xl scroll-smooth min-h-0">
+<!-- Chat Thread -->
+<div id="chat-thread" class="flex flex-col gap-lg max-w-[800px] mx-auto w-full pb-lg">
+</div>
+</div>
+<!-- Input Area - always at bottom -->
+<div class="px-lg md:px-section pb-md pt-xs shrink-0 relative z-20">
+<div class="max-w-[800px] mx-auto relative group">
+<div class="absolute -inset-1 bg-gradient-to-r from-sky-light to-surface-container-high rounded-xl blur opacity-20 group-focus-within:opacity-50 transition duration-500"></div>
+<div class="relative flex items-end gap-sm bg-canvas border border-hairline-strong rounded-xl p-xs shadow-[0_4px_12px_rgba(0,0,0,0.04)] focus-within:border-cnu-blue focus-within:ring-1 focus-within:ring-cnu-blue transition-all">
+
+<textarea id="chat-input" class="flex-1 bg-transparent border-none focus:ring-0 resize-none font-body-md text-body-md text-on-surface py-sm max-h-[120px] min-h-[44px]" placeholder="무엇이든 물어보세요. 예시: &quot;오늘 학식 메뉴가 뭔가요?&quot;" rows="1" style="scrollbar-width: thin;"></textarea>
+<div class="flex items-center gap-xs pb-[2px] pr-[2px]">
+
+<button id="send-btn" class="bg-cnu-blue text-on-primary p-sm rounded-lg hover:bg-cnu-blue-active transition-colors shrink-0 h-10 w-10 flex items-center justify-center shadow-sm">
+<span class="material-symbols-outlined">send</span>
+</button>
+</div>
+</div>
+<div class="text-center mt-xs">
+<span class="font-caption-caps text-caption-caps text-secondary/60">Made by 202202494 Leeyunseok.</span>
+</div>
+</div>
+</div>
+</main>
+</div>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const scrollArea = document.getElementById('scroll-area');
+    const chatThread = document.getElementById('chat-thread');
+    const topics     = document.getElementById('suggested-topics');
+    const input      = document.getElementById('chat-input');
+    const sendBtn    = document.getElementById('send-btn');
+
+    let currentES = null;
+
+    function esc(t) {
+        return t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    function md(text) {
+        let h = esc(text);
+        h = h.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        h = h.replace(/\n/g, '<br>');
+        return h;
+    }
+
+    function scrollBottom() {
+        scrollArea.scrollTop = scrollArea.scrollHeight;
+    }
+
+    function addUser(text) {
+        const el = document.createElement('div');
+        el.className = 'flex justify-end w-full';
+        el.innerHTML =
+            '<div class="max-w-[80%] bg-surface-strong px-lg py-md rounded-2xl rounded-tr-sm border border-hairline-strong">' +
+            '<p class="font-body-md text-body-md text-on-surface">' + esc(text) + '</p></div>';
+        chatThread.appendChild(el);
+        scrollBottom();
+    }
+
+    function addBot(html) {
+        const row = document.createElement('div');
+        row.className = 'flex gap-md w-full';
+        row.innerHTML =
+            '<div class="w-8 h-8 rounded-full bg-primary-container text-on-primary flex items-center justify-center shrink-0 shadow-sm">' +
+            '<span class="material-symbols-outlined text-[18px]">school</span></div>' +
+            '<div class="flex-1 max-w-[85%]">' +
+            '<div class="prose prose-sm max-w-none text-on-surface font-body-md text-body-md leading-relaxed bot-msg">' +
+            html + '</div></div>';
+        chatThread.appendChild(row);
+        scrollBottom();
+        return row.querySelector('.bot-msg');
+    }
+
+    // ── initial welcome ──────────────────────────────────────────────────────
+    addBot('안녕하세요! 충남대학교 AI 챗봇입니다.<br> 궁금한 것을 물어보세요.');
+
+    // ── send message ─────────────────────────────────────────────────────────
+    function send(question) {
+        question = question.trim();
+        if (!question) return;
+
+        if (currentES) { currentES.close(); currentES = null; }
+        input.value = '';
+        input.style.height = 'auto';
+        sendBtn.disabled = true;
+        sendBtn.classList.add('opacity-40', 'cursor-not-allowed');
+
+        addUser(question);
+        const loadingHTML =
+            '<span class="generating-dots text-secondary text-body-sm">' +
+            '답변 생성 중<span>.</span><span>.</span><span>.</span></span>';
+        const content = addBot(loadingHTML);
+
+        let full = '';
+        const url = '/api/chat?question=' + encodeURIComponent(question);
+        currentES = new EventSource(url);
+
+        currentES.onmessage = function(e) {
+            const data = JSON.parse(e.data);
+            if (data.done) {
+                currentES.close(); currentES = null;
+                sendBtn.disabled = false;
+                sendBtn.classList.remove('opacity-40', 'cursor-not-allowed');
+                content.innerHTML = full ? md(full) : '죄송합니다. 응답을 받지 못했습니다.';
+                scrollBottom();
+                return;
+            }
+            full += data.token;
+            content.innerHTML = md(full) + '<span class="opacity-40">▍</span>';
+            scrollBottom();
+        };
+
+        currentES.onerror = function() {
+            if (currentES) { currentES.close(); currentES = null; }
+            sendBtn.disabled = false;
+            sendBtn.classList.remove('opacity-40', 'cursor-not-allowed');
+            content.innerHTML = full ? md(full) : '응답을 가져오는 중 오류가 발생했습니다.';
+            scrollBottom();
+        };
+    }
+
+    // ── event listeners ──────────────────────────────────────────────────────
+    sendBtn.addEventListener('click', function() { send(input.value); });
+
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); send(input.value); }
+    });
+
+    input.addEventListener('input', function() {
+        input.style.height = 'auto';
+        input.style.height = Math.min(input.scrollHeight, 120) + 'px';
+    });
+
+    document.getElementById('btn-calendar').addEventListener('click', function() {
+        send('가장 가까운 학사일정 알려주세요.');
+    });
+    document.getElementById('btn-graduation').addEventListener('click', function() {
+        send('졸업하려면 몇 학점 필요한가요?');
+    });
+    document.getElementById('btn-shuttle').addEventListener('click', function() {
+        send('셔틀버스 시간표와 노선 알려주세요.');
+    });
+});
+</script>
+</body></html>
