@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-KoELECTRA-yellow)
+![Transformers](https://img.shields.io/badge/HF_Transformers-KoELECTRA-yellow)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-6C3EE8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-SSE_Streaming-009688?logo=fastapi&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -10,11 +10,11 @@
 
 A **RAG-based intelligent campus assistant** for Chungnam National University students, answering questions about graduation requirements, notices, academic schedules, cafeteria menus, and shuttle buses through a classify → retrieve → generate pipeline.
 
-> 🎥 Demo video: [`demo.mov`](./demo.mov) · Slides: [`presentation.pdf`](./presentation.pdf) *(Korean)*
+> Demo video: [`demo.mov`](./demo.mov) · Slides: [`presentation.pdf`](./presentation.pdf) *(Korean)*
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - **Fine-tuned classifier, 99.3% validation accuracy** — `koelectra-base-v3` fine-tuned on 605 labeled questions, ensembled with keyword-based soft voting across 5 categories
 - **Hybrid retrieval with RRF** — ChromaDB dense embeddings + BM25 sparse scores are fused with Reciprocal Rank Fusion, rather than relying on a single retrieval signal
@@ -22,7 +22,7 @@ A **RAG-based intelligent campus assistant** for Chungnam National University st
 - **Grounded generation with guardrails** — `Qwen2.5-1.5B-Instruct` generates answers strictly from retrieved evidence, with domain-filtering guardrails and entity extraction (dates, cafeteria names, etc.)
 - **Streaming UX** — FastAPI + Server-Sent Events stream the answer token-by-token to the browser
 
-## 🧩 Features
+## Features
 
 | Task | Description |
 |------|------|
@@ -31,7 +31,7 @@ A **RAG-based intelligent campus assistant** for Chungnam National University st
 | **3. Realtime updates** | A BeautifulSoup crawler periodically collects campus notices/menus and upserts them into ChromaDB |
 | **UI** | FastAPI + SSE token-streaming chatbot web UI |
 
-## 🏗 Architecture
+## Architecture
 
 ```mermaid
 flowchart TD
@@ -47,7 +47,7 @@ flowchart TD
     LLM --> UI["FastAPI + SSE<br/>token-streaming UI"]
 ```
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Classifier**: `monologg/koelectra-base-v3-discriminator` fine-tuning (Hugging Face Transformers)
 - **Retrieval (RAG)**: ChromaDB + sentence-transformers embeddings, rank-bm25, Reciprocal Rank Fusion (RRF)
@@ -55,7 +55,7 @@ flowchart TD
 - **Crawling**: requests + BeautifulSoup4 (realtime notices/menus)
 - **Serving**: FastAPI + uvicorn, SSE streaming, HTML/CSS frontend
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # 1. Create a virtualenv and install dependencies
@@ -72,7 +72,7 @@ bash chatbot.sh
 > Run `src/classifier.ipynb` against `data/train_cls.json` to reproduce the same model into `model/classifier_finetuned/`.
 > (training hyperparameters and results are in `model/classifier_finetuned/training_metadata.json`)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -103,7 +103,7 @@ bash chatbot.sh
 └── requirements.txt
 ```
 
-## 📊 Classifier Performance
+## Classifier Performance
 
 | Metric | Value |
 |------|-----|
@@ -113,6 +113,6 @@ bash chatbot.sh
 | **Validation accuracy** | **99.34%** |
 | Eval loss | 0.234 |
 
-## 📄 License
+## License
 
 MIT — see [LICENSE](./LICENSE).
