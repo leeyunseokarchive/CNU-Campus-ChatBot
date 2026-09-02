@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install lint tools
+        run: pip install ruff
+      # ML/RAG stack (torch, transformers, chromadb) is too heavy to install in CI,
+      # so this checks the class of issues that would actually break the app at
+      # import/runtime (syntax errors, undefined names) rather than full style lint.
+      - name: Ruff lint (syntax + undefined-name check)
+        run: ruff check --select=E9,F821,F822,F823 .
+      - name: Syntax check (all modules compile)
+        run: python -m compileall -q .

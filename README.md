@@ -6,6 +6,7 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-6C3EE8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-SSE_Streaming-009688?logo=fastapi&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![CI](https://github.com/leeyunseokarchive/CNU-Campus-ChatBot/actions/workflows/ci.yml/badge.svg)](https://github.com/leeyunseokarchive/CNU-Campus-ChatBot/actions/workflows/ci.yml)
 
 A **RAG-based intelligent campus assistant** for Chungnam National University students, answering questions about graduation requirements, notices, academic schedules, cafeteria menus, and shuttle buses through a classify → retrieve → generate pipeline.
 
